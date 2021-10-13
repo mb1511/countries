@@ -1,1 +1,4 @@
 .idea
+*__pychache__*
+*.pyc
+
